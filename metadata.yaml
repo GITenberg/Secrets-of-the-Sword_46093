@@ -1,0 +1,47 @@
+_repo: Secrets-of-the-Sword_46093
+_version: 0.1.0
+alternative_title: Secrets de l'épée. English
+contributor:
+  illustrator:
+    agent_name: Townsend, F. H. (Frederick Henry)
+    aliases:
+    - Townsend, Frederick Henry
+    - Townsend, F.H.
+    birthdate: 1868
+    deathdate: 1920
+    gutenberg_agent_id: '9854'
+    url: http://www.gutenberg.org/2009/agents/9854
+  translator:
+    agent_name: Clay, Charles Felix
+    alias: Clay, C. F.
+    gutenberg_agent_id: '43606'
+    url: http://www.gutenberg.org/2009/agents/43606
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bazancourt, César Lecat, baron de
+    aliases:
+    - De Bazancourt, César Lecat, baron
+    - Lecat, César, baron de Bazancourt
+    - Bazancourt, Cesar Lecat, baron de
+    birthdate: 1810
+    deathdate: 1865
+    gutenberg_agent_id: '43605'
+    url: http://www.gutenberg.org/2009/agents/43605
+description: ''
+gutenberg_issued: '2014-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46093'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fencing'
+- !lcc 'U'
+- !lcc 'GV'
+title: Secrets of the Sword
+url: http://www.gutenberg.org/ebooks/46093
